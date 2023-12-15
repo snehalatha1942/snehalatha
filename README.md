@@ -62,4 +62,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Mini Project:circularqueue queue                 | [CLICK HERE](https://github.com/snehalatha1942/assignment-3) |
 | Mini Project: binary,factorial,fibinoccai,levelorder     | [CLICK HERE](https://github.com/snehalatha1942/assignment-4) |
 | Mini Project: inordertraversal,preordertraversal,postordertraversal            | [CLICK HERE](https://github.com/snehalatha1942/assignment-5) |
-| Final Project: snake and ladders 			    | [CLICK HERE](https://github.com/snehalatha1942/final) |
+| Final Project: snake and ladders 			    | [CLICK HERE](https://github.com/snehalatha1942/finalproject) |
